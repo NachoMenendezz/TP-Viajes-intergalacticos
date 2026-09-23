@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1790166469 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsdestino.cpp
+	<iostream>
+	<cstring>
+	"clsDestino.h"
+
+1790166469 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsdestino.h
+
+1790168310 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1790168310 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsfecha.h
+
+1790166470 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clspasaje.cpp
+	<iostream>
+	"clsPasaje.h"
+
+1790166470 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clspasaje.h
+	"clsFecha.h"
+
+1790166469 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsviaje.cpp
+	<iostream>
+	"clsViaje.h"
+
+1790166469 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clsviaje.h
+
+1790166469 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\main.cpp
+
+1790168309 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\menus.cpp
+	<iostream>
+	"menus.h"
+
+1790168310 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\menus.h
+	"Persona.h"
+	"clsViaje.h"
+	"clsDestino.h"
+	"clsPasaje.h"
+
+1790168310 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\persona.h
+	"clsFecha.h"
+
+1790168350 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1790171430 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clscapitan.cpp
+	<iostream>
+	"clsCapitan.h"
+	"Persona.h"
+
+1790171374 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clscapitan.h
+	"Persona.h"
+
+1790171446 source:c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clspasajero.cpp
+	<iostream>
+	"clsPasajero.h"
+	"Persona.h"
+
+1790171374 c:\users\alumno\desktop\nueva carpeta\viajeinterestelar\clspasajero.h
+	"Persona.h"
+
