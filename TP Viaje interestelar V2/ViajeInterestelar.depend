@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1790212841 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clscapitan.cpp
+	<iostream>
+	"clsCapitan.h"
+	"Persona.h"
+
+1790212843 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clscapitan.h
+	"Persona.h"
+
+1790212840 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\persona.h
+	"clsFecha.h"
+
+1790212852 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsfecha.h
+
+1790212845 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsdestino.cpp
+	<iostream>
+	<cstring>
+	"clsDestino.h"
+
+1790212847 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsdestino.h
+
+1790212850 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1790212855 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clspasaje.cpp
+	<iostream>
+	"clsPasaje.h"
+
+1790212857 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clspasaje.h
+	"clsFecha.h"
+
+1790212859 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clspasajero.cpp
+	<iostream>
+	"clsPasajero.h"
+	"Persona.h"
+
+1790212861 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clspasajero.h
+	"Persona.h"
+
+1790212863 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsviaje.cpp
+	<iostream>
+	"clsViaje.h"
+
+1790212865 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\clsviaje.h
+
+1790212870 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\main.cpp
+
+1790212874 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\menus.cpp
+	<iostream>
+	"menus.h"
+
+1790212877 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\menus.h
+	"Persona.h"
+	"clsViaje.h"
+	"clsDestino.h"
+	"clsPasaje.h"
+
+1790212882 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1790215209 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\archivocapitan.cpp
+
+1790215502 source:c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\archivopasajeros.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPasajeros.h"
+
+1790215502 c:\users\alejandra\desktop\programacion 2\tp viaje interestelar\archivopasajeros.h
+	"clsPasajero.h"
+
