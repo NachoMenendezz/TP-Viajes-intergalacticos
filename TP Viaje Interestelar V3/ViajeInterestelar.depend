@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1790247981 source:c:\users\alumno\desktop\clase\tp viaje interestelar\archivocapitanes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoCapitanes.h"
+
+1790247984 c:\users\alumno\desktop\clase\tp viaje interestelar\archivocapitanes.h
+	"clsCapitan.h"
+
+1790254918 c:\users\alumno\desktop\clase\tp viaje interestelar\clscapitan.h
+	"Persona.h"
+
+1790254189 c:\users\alumno\desktop\clase\tp viaje interestelar\persona.h
+	"clsFecha.h"
+
+1790248038 c:\users\alumno\desktop\clase\tp viaje interestelar\clsfecha.h
+
+1790247986 source:c:\users\alumno\desktop\clase\tp viaje interestelar\archivopasajeros.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPasajeros.h"
+
+1790247988 c:\users\alumno\desktop\clase\tp viaje interestelar\archivopasajeros.h
+	"clsPasajero.h"
+
+1790254889 c:\users\alumno\desktop\clase\tp viaje interestelar\clspasajero.h
+	"Persona.h"
+
+1790254907 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clscapitan.cpp
+	<iostream>
+	"clsCapitan.h"
+	"Persona.h"
+
+1790260509 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clsdestino.cpp
+	<iostream>
+	<cstring>
+	"clsDestino.h"
+
+1790260390 c:\users\alumno\desktop\clase\tp viaje interestelar\clsdestino.h
+
+1790248035 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1790260390 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clspasaje.cpp
+	<iostream>
+	"clsPasaje.h"
+
+1790260390 c:\users\alumno\desktop\clase\tp viaje interestelar\clspasaje.h
+	"clsFecha.h"
+
+1790254889 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clspasajero.cpp
+	<iostream>
+	"clsPasajero.h"
+	"Persona.h"
+
+1790259096 source:c:\users\alumno\desktop\clase\tp viaje interestelar\clsviaje.cpp
+	<iostream>
+	"clsViaje.h"
+
+1790259096 c:\users\alumno\desktop\clase\tp viaje interestelar\clsviaje.h
+
+1790252361 source:c:\users\alumno\desktop\clase\tp viaje interestelar\main.cpp
+	<iostream>
+	"menus.h"
+
+1790252368 source:c:\users\alumno\desktop\clase\tp viaje interestelar\menus.cpp
+	<iostream>
+	"menus.h"
+	"clsCapitan.h"
+	"clsDestino.h"
+	"clsFecha.h"
+	"clsPasaje.h"
+	"clsPasajero.h"
+	"clsViaje.h"
+
+1790259289 c:\users\alumno\desktop\clase\tp viaje interestelar\menus.h
+
+1790254043 source:c:\users\alumno\desktop\clase\tp viaje interestelar\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1790249982 source:c:\users\alumno\desktop\clase\tp viaje interestelar\archivosviajes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoViaje.h"
+
+1790249835 c:\users\alumno\desktop\clase\tp viaje interestelar\archivoviaje.h
+	"clsViaje.h"
+
+1790250996 source:c:\users\alumno\desktop\clase\tp viaje interestelar\archivodestinos.cpp
+	<iostream>
+	<cstring>
+	"ArchivoDestinos.h"
+
+1790250996 c:\users\alumno\desktop\clase\tp viaje interestelar\archivodestinos.h
+	"clsDestino.h"
+
+1790250996 source:c:\users\alumno\desktop\clase\tp viaje interestelar\archivopasajes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPasajes.h"
+
+1790250996 c:\users\alumno\desktop\clase\tp viaje interestelar\archivopasajes.h
+	"clsPasaje.h"
+
