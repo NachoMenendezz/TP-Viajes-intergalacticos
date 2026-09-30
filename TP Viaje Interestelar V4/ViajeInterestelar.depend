@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1790766294 source:c:\users\alumno\desktop\clase\tp viaje\archivocapitanes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoCapitanes.h"
+
+1790766292 c:\users\alumno\desktop\clase\tp viaje\archivocapitanes.h
+	"clsCapitan.h"
+
+1790766249 c:\users\alumno\desktop\clase\tp viaje\clscapitan.h
+	"Persona.h"
+
+1790766271 c:\users\alumno\desktop\clase\tp viaje\persona.h
+	"clsFecha.h"
+
+1790766240 c:\users\alumno\desktop\clase\tp viaje\clsfecha.h
+
+1790766290 source:c:\users\alumno\desktop\clase\tp viaje\archivodestinos.cpp
+	<iostream>
+	<cstring>
+	"ArchivoDestinos.h"
+
+1790766288 c:\users\alumno\desktop\clase\tp viaje\archivodestinos.h
+	"clsDestino.h"
+
+1790766244 c:\users\alumno\desktop\clase\tp viaje\clsdestino.h
+
+1790766286 source:c:\users\alumno\desktop\clase\tp viaje\archivopasajeros.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPasajeros.h"
+
+1790766284 c:\users\alumno\desktop\clase\tp viaje\archivopasajeros.h
+	"clsPasajero.h"
+
+1790766215 c:\users\alumno\desktop\clase\tp viaje\clspasajero.h
+	"Persona.h"
+
+1790767715 source:c:\users\alumno\desktop\clase\tp viaje\archivopasajes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoPasajes.h"
+
+1790767729 c:\users\alumno\desktop\clase\tp viaje\archivopasajes.h
+	"clsPasaje.h"
+
+1790766221 c:\users\alumno\desktop\clase\tp viaje\clspasaje.h
+	"clsFecha.h"
+
+1790766275 source:c:\users\alumno\desktop\clase\tp viaje\archivosviajes.cpp
+	<iostream>
+	<cstring>
+	"ArchivoViaje.h"
+
+1790766278 c:\users\alumno\desktop\clase\tp viaje\archivoviaje.h
+	"clsViaje.h"
+
+1790766202 c:\users\alumno\desktop\clase\tp viaje\clsviaje.h
+
+1790766251 source:c:\users\alumno\desktop\clase\tp viaje\clscapitan.cpp
+	<iostream>
+	"clsCapitan.h"
+	"Persona.h"
+
+1790766247 source:c:\users\alumno\desktop\clase\tp viaje\clsdestino.cpp
+	<iostream>
+	<cstring>
+	"clsDestino.h"
+
+1790766242 source:c:\users\alumno\desktop\clase\tp viaje\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1790766223 source:c:\users\alumno\desktop\clase\tp viaje\clspasaje.cpp
+	<iostream>
+	"clsPasaje.h"
+
+1790766219 source:c:\users\alumno\desktop\clase\tp viaje\clspasajero.cpp
+	<iostream>
+	"clsPasajero.h"
+	"Persona.h"
+
+1790766211 source:c:\users\alumno\desktop\clase\tp viaje\clsviaje.cpp
+	<iostream>
+	"clsViaje.h"
+
+1790766188 source:c:\users\alumno\desktop\clase\tp viaje\main.cpp
+	<iostream>
+	"menus.h"
+
+1790767517 c:\users\alumno\desktop\clase\tp viaje\menus.h
+
+1790766181 source:c:\users\alumno\desktop\clase\tp viaje\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
